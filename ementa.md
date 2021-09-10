@@ -11,3 +11,4 @@
 4. Funções
 5. Arrays
 6. Objetos e JSONs
+7. spread e rest (ES5)
